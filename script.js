@@ -1,5 +1,5 @@
 const apiKey = 'fcb0ac96374b374ec677790d8ddafeab'; // Replace with your OpenWeatherMap API key
-const geoUrl = 'http://api.openweathermap.org/geo/1.0/direct?q=';
+const geoUrl = 'https://api.openweathermap.org/geo/1.0/direct?q=';
 const oneCallUrl = 'https://api.openweathermap.org/data/3.0/onecall?units=metric&';
 
 const searchBtn = document.getElementById('search-btn');
